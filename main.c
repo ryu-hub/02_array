@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]) 
+int main(int argc, char *argv[5]) 
 {
     char str[5];
     str[0]=6;
